@@ -1,0 +1,56 @@
+id,name,tier,class,prior_median_pct,ceiling_pct
+1,Vice Got a Price!,platinum,platinum,0.15,0.5
+2,Just Like Paradise,bronze,intro_fishing,90,99
+3,Paradise Lost,bronze,story_ch1,55,70
+4,T**s Ass Drug Money,bronze,story_ch2,45,60
+5,Vice City Baby!,bronze,story_ch3,35,50
+6,Top Of The World Ma,bronze,story_ch4,25,40
+7,You Gotta Know When to Get Off,gold,story_final,15,25
+8,Trust,bronze,story_mission,25,40
+9,Break the Bank,bronze,story_mission,25,40
+10,Family Matters,bronze,story_mission,25,40
+11,DWNFALL,bronze,story_mission,25,40
+12,Hi-Jacked,bronze,story_mission,25,40
+13,Snow Storm,bronze,story_mission,25,40
+14,A Long Road,gold,completion_100,1,3
+15,Cunning Stunts,silver,grind_silver,2.5,6
+16,Master of None,bronze,activity_easy,25,45
+17,The Shootist,silver,grind_silver,2.5,6
+18,Top Fun,bronze,activity_mid,12,25
+19,Earn Cash Not Kudos,bronze,activity_mid,12,25
+20,Baited My Tackle,bronze,activity_easy,25,45
+21,Stick Fiddler,bronze,activity_easy,25,45
+22,Road to Rehabilitation,bronze,stranger_final,10,20
+23,This Was No Boat Accident,bronze,stranger_final,10,20
+24,The Lone Rider,bronze,stranger_final,10,20
+25,Strangers & Freaks,silver,grind_silver,2.5,6
+26,Supply & Demand,bronze,stranger_final,10,20
+27,Spin On This!,bronze,stranger_final,10,20
+28,Positive Mental Attitude,bronze,activity_mid,12,25
+29,Fair Game,bronze,activity_mid,12,25
+30,Don't Touch My Deck,silver,grind_silver,2.5,6
+31,You WAiNKer!,silver,grind_silver,2.5,6
+32,One Last Thing,bronze,activity_mid,12,25
+33,Hot Together,bronze,activity_mid,12,25
+34,Retail Therapy,bronze,activity_mid,12,25
+35,Whip It Good,bronze,activity_mid,12,25
+36,Gunslinger,bronze,activity_mid,12,25
+37,Catch Me If You Can,bronze,activity_mid,12,25
+38,Challenging Tank,bronze,activity_mid,12,25
+39,Sneakthief,bronze,activity_mid,12,25
+40,Maximum Withdrawal,silver,grind_silver,2.5,6
+41,A Classic Blitz Play,bronze,activity_mid,12,25
+42,The Goodtime State,bronze,activity_mid,12,25
+43,Pest Control,bronze,activity_mid,12,25
+44,In The Beginning…,bronze,activity_flavor,15,30
+45,Capital Offense,bronze,activity_flavor,15,30
+46,Let’s Go Bowling,bronze,activity_flavor,15,30
+47,Personal Best,bronze,activity_flavor,15,30
+48,Actions Speak Louder,bronze,activity_flavor,15,30
+49,Bad Luck I Guess,bronze,activity_flavor,15,30
+50,The Truth Is Out There,bronze,activity_flavor,15,30
+51,Ten Pin,bronze,activity_flavor,15,30
+52,Dime on the Dollar,bronze,money,6,15
+53,Treat Yo Self,bronze,money,6,15
+54,Little Boxes,bronze,money,6,15
+55,On the Spot,bronze,money,6,15
